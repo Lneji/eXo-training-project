@@ -19,7 +19,7 @@
 
 ** Rest Web Service
  
- Create a Rest Web Service that invokes the functions in JCRCrudService http://docs.exoplatform.com/public/index.jsp?topic=%2FPLF42%2FCONTref.Extensions.RESTServices.html&cp=0_8_4_2_0
+ Create a Rest Web Service that invokes the functions in JCRCrudService http://docs.exoplatform.com/PLF42/PLFDevGuide.DevelopingRESTServices.html
 
 ** Listener
 
@@ -27,4 +27,4 @@
 
 ** JOB
 
- Create a Job that will call periodically JCRCrudService and update a property of type Date hourly. http://docs.exoplatform.com/public/index.jsp?topic=%2FPLF42%2FKernel.JobSchedulerService.html&resultof=%22job%22%20
+ Create a Job that will call periodically JCRCrudService and update a property of type Date hourly. http://docs.exoplatform.com/PLF42/Kernel.JobSchedulerService.HowJobSchedulerWork.html
