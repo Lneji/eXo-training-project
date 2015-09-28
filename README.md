@@ -14,7 +14,7 @@
  2. This service is not Startable
  3. Add three functions respectively : addJCRNode, updateJCRNode and removeJCRNode
  4. addJCRNode(String nodeName) creates a JCR node under / with name nodeName
- 5. updateJCRNode(String propertyName,String propertyValue) updates the node with a new property having the name equal to propertyName and value equal propertyValue
+ 5. updateJCRNode(String propertyName,String propertyValue, String nodeName) updates the node with a new property having the name equal to propertyName and value equal propertyValue
  6. removeJCRNode(String nodeName) will remove this JCR node with name equal to nodeName
 
 ** Rest Web Service
